@@ -123,13 +123,6 @@ the file and has the app can restore it.
 
 ---
 
-### 8. Children's privacy
-
-Our service does not address anyone under the age of 13, and we do not knowingly
-collect personal information from children.
-
----
-
 ### 9. Deleting your data
 
 Because everything is stored on your device, you remain in complete control:
