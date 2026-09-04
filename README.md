@@ -21,10 +21,10 @@ A full-featured mobile API client to test, debug, and manage REST, GraphQL, and 
 * 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.apiclient)
 
 #### 📄 Support & Privacy Policy
-| Platform | Privacy Policy | Support |
+| Platform | Privacy Policy | Support Page |
 | :--- | :--- | :--- |
-| **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/ios_api_client_policy.html) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/api_client_support.html) |
-| **Android** | [Android Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/ApiClent) | [Support](https://github.com/abcoderz/Privacy_Policy/blob/master/api_client_support.html) |
+| **iOS** | [iOS Privacy Policy](https://abcoderz.github.io/apiclient-privacy-ios) | [iOS Support](https://abcoderz.github.io/apiclient-support) |
+| **Android** | [Android Privacy Policy](https://abcoderz.github.io/apiclient-privacy-android) | [Support](https://abcoderz.github.io/apiclient-support) |
 
 ---
 
@@ -44,10 +44,10 @@ A complete, privacy-focused personal expense tracker and debt/loan ledger (khata
 * 🍏 **iOS App Store**: *Coming soon*
 
 #### 📄 Support & Privacy Policy
-| Platform | Privacy Policy | Support |
+| Platform | Privacy Policy | Support Page |
 | :--- | :--- | :--- |
-| **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-PrivacyPolicy.md) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-Support.md) |
-| **Android** | [Android Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RuppeControl) | [Email Support](mailto:abcoderzsoftware@gmail.com) |
+| **iOS** | [iOS Privacy Policy](https://abcoderz.github.io/rupeecontrol-privacy-ios) | [iOS Support](https://abcoderz.github.io/rupeecontrol-support) |
+| **Android** | [Android Privacy Policy](https://abcoderz.github.io/rupeecontrol-privacy-android) | [Support](https://abcoderz.github.io/rupeecontrol-support) |
 
 ---
 
