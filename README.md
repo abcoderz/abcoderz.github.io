@@ -1,56 +1,62 @@
 # Abcoderz Software
 
-Independent app development, based in India. We build tools that respect your
-data — no accounts, no cloud, no tracking of the things that matter.
+Independent app development based in India. We build developer tools and privacy-first utility applications that respect your data — no unnecessary accounts, no cloud middleman, no tracking of what matters.
 
 ---
 
-## Rupee Control
+## 🚀 Our Apps
 
-A complete expense tracker for India that works **entirely offline**. Daily
-income and expenses, category budgets, a debt &amp; loan ledger (khata), and PDF,
-Excel and CSV statements — with every rupee stored only on your own device.
+### 1. ApiClient — REST, GraphQL & WebSocket Client
 
-There is no account to create, no server, and no sync. Your financial data
-never leaves your phone, and we have no technical ability to see it.
+A full-featured mobile API client to test, debug, and manage REST, GraphQL, and WebSocket APIs anytime, anywhere directly on your phone.
 
-**Available in six languages:** English, हिन्दी, ગુજરાતી, मराठी, தமிழ் and తెలుగు.
+* **Multi-Protocol Testing** — REST (GET, POST, PUT, DELETE, PATCH, etc.), GraphQL with syntax formatting, real-time WebSockets (`ws://`, `wss://`), and Server-Sent Events (SSE) streaming.
+* **Postman & OpenAPI Import** — Import Postman Collections (v1, v2.0, v2.1) and OpenAPI / Swagger 2.0 & 3.0 (JSON & YAML).
+* **Code Generator** — 1-click export to 9 languages including Swift (URLSession), Kotlin (OkHttp), Python (requests), JavaScript (fetch), Dart/Flutter, Go, PHP, Java, and cURL.
+* **FCM Tester & Power Tools** — Test Firebase Cloud Messaging (HTTP v1) push notifications, format JSON, Base64/AES encryption tools, and cookie manager.
+* **100% Private & Local-First** — Keys, tokens, headers, and request history stay strictly on your device.
 
-### What it does
+#### Downloads & Links
+* 🍏 **iOS App Store**: [Download on App Store](https://apps.apple.com/us/app/apiclient/id1595150293)
+* 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.apiclient)
 
-- **Track daily spending** — income and expenses in seconds, with your own
-  categories and a photo of the bill if you want one
-- **Debt &amp; Loan Ledger (Khata)** — money you gave and money you took, with due
-  dates, WhatsApp reminders and calendar alerts
-- **Budgets** — monthly limits per category, and a Daily Safe-to-Spend figure
-  for the rest of the month
-- **Reports** — multi-page PDF statements, plus Excel and CSV for your accountant
-- **Cash counter** — count notes and coins and tally them against your balance
-- **Private by design** — encrypted on-device storage, Face ID lock, and backups
-  you control that move between the Android and iPhone versions
-
-### Support and privacy
-
-| | iPhone | Android |
+#### Support & Privacy (ApiClient)
+| Platform | Privacy Policy | Support |
 | :--- | :--- | :--- |
-| Privacy Policy | [iOS policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-PrivacyPolicy.md) | [Android policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RuppeControl) |
-| Support | [iOS support](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-Support.md) | — |
-
-The two platforms have separate privacy policies because they use different
-services: the Android build includes Firebase Crashlytics, the iOS build has no
-analytics or crash-reporting SDK at all.
+| **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/ios_api_client_policy.html) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/api_client_support.html) |
+| **Android** | [Android Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/ApiClent) | [Support](https://github.com/abcoderz/Privacy_Policy/blob/master/api_client_support.html) |
 
 ---
 
-## Contact
+### 2. Rupee Control — Offline Expense & Khata Tracker
 
-📧 **abcoderzsoftware@gmail.com**
+A complete, privacy-focused personal expense tracker and debt/loan ledger (khata) designed for India that works **entirely offline**.
 
-We usually reply within 2–3 working days. For a bug report, including your
-device model, OS version and app version helps us a great deal.
+* **Track Daily Spending** — Record daily income and expenses in seconds with custom categories and bill attachments.
+* **Debt & Loan Ledger (Khata)** — Track loans and money borrowed/given with due dates, WhatsApp reminders, and calendar alerts.
+* **Smart Budgets** — Monthly limits per category and a Daily Safe-to-Spend indicator.
+* **Statements & Reports** — Multi-page PDF statements, Excel, and CSV export for easy accounting.
+* **Multi-Language** — Available in English, हिन्दी, ગુજરાતી, मराठी, தமிழ், and తెలుగు.
+* **Private by Design** — Zero accounts, zero servers, zero cloud sync. Encrypted on-device storage with Face ID / Biometric lock.
+
+#### Downloads & Links
+* 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.rupee_control)
+* 🍏 **iOS App Store**: *Coming soon to the App Store*
+
+#### Support & Privacy (Rupee Control)
+| Platform | Privacy Policy | Support |
+| :--- | :--- | :--- |
+| **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-PrivacyPolicy.md) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-Support.md) |
+| **Android** | [Android Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RuppeControl) | [Email Support](mailto:abcoderzsoftware@gmail.com) |
 
 ---
 
-<sub>Advertising partners: this domain publishes
-[app-ads.txt](https://abcoderz.github.io/app-ads.txt) in line with the IAB Tech
-Lab specification.</sub>
+## 📬 Contact & Support
+
+For feedback, inquiries, or bug reports:
+* 📧 Email: **abcoderzsoftware@gmail.com**
+* We usually respond within 2–3 business days.
+
+---
+
+<sub>Advertising partners: this domain publishes [app-ads.txt](https://abcoderz.github.io/app-ads.txt) in compliance with the IAB Tech Lab specification.</sub>
