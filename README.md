@@ -16,11 +16,11 @@ A full-featured mobile API client to test, debug, and manage REST, GraphQL, and 
 * **FCM Tester & Power Tools** — Test Firebase Cloud Messaging (HTTP v1) push notifications, format JSON, Base64/AES encryption tools, and cookie manager.
 * **100% Private & Local-First** — Keys, tokens, headers, and request history stay strictly on your device.
 
-#### Downloads & Links
+#### 📲 Store Links
 * 🍏 **iOS App Store**: [Download on App Store](https://apps.apple.com/us/app/apiclient/id1595150293)
 * 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.apiclient)
 
-#### Support & Privacy (ApiClient)
+#### 📄 Support & Privacy Policy
 | Platform | Privacy Policy | Support |
 | :--- | :--- | :--- |
 | **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/ios_api_client_policy.html) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/api_client_support.html) |
@@ -39,11 +39,11 @@ A complete, privacy-focused personal expense tracker and debt/loan ledger (khata
 * **Multi-Language** — Available in English, हिन्दी, ગુજરાતી, मराठी, தமிழ், and తెలుగు.
 * **Private by Design** — Zero accounts, zero servers, zero cloud sync. Encrypted on-device storage with Face ID / Biometric lock.
 
-#### Downloads & Links
+#### 📲 Store Links
 * 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.rupee_control)
-* 🍏 **iOS App Store**: *Coming soon to the App Store*
+* 🍏 **iOS App Store**: *Coming soon*
 
-#### Support & Privacy (Rupee Control)
+#### 📄 Support & Privacy Policy
 | Platform | Privacy Policy | Support |
 | :--- | :--- | :--- |
 | **iOS** | [iOS Privacy Policy](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-PrivacyPolicy.md) | [iOS Support](https://github.com/abcoderz/Privacy_Policy/blob/master/RupeeControl-iOS-Support.md) |
@@ -51,7 +51,7 @@ A complete, privacy-focused personal expense tracker and debt/loan ledger (khata
 
 ---
 
-## 📬 Contact & Support
+## 📬 Contact
 
 For feedback, inquiries, or bug reports:
 * 📧 Email: **abcoderzsoftware@gmail.com**
