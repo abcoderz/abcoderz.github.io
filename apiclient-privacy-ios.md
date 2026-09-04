@@ -45,19 +45,13 @@ We value your trust in using ApiClient. We protect your data using iOS security 
 
 ---
 
-### 6. Children’s Privacy
-
-Our Services do not address anyone under the age of 13, and we do not knowingly collect personal information from children.
-
----
-
-### 7. Changes to This Privacy Policy
+### 6. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 ---
 
-### 8. Contact Us
+### 7. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy:
 
