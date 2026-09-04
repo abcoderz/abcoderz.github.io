@@ -21,6 +21,7 @@ A full-featured mobile API client to test, debug, and manage REST, GraphQL, and 
 * 🤖 **Google Play Store**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ab.apiclient)
 
 #### 📄 Support & Privacy Policy
+
 | Platform | Privacy Policy | Support Page |
 | :--- | :--- | :--- |
 | **iOS** | [iOS Privacy Policy](https://abcoderz.github.io/apiclient-privacy-ios) | [iOS Support](https://abcoderz.github.io/apiclient-support) |
@@ -44,6 +45,7 @@ A complete, privacy-focused personal expense tracker and debt/loan ledger (khata
 * 🍏 **iOS App Store**: *Coming soon*
 
 #### 📄 Support & Privacy Policy
+
 | Platform | Privacy Policy | Support Page |
 | :--- | :--- | :--- |
 | **iOS** | [iOS Privacy Policy](https://abcoderz.github.io/rupeecontrol-privacy-ios) | [iOS Support](https://abcoderz.github.io/rupeecontrol-support) |
