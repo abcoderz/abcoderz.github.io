@@ -123,7 +123,7 @@ the file and has the app can restore it.
 
 ---
 
-### 9. Deleting your data
+### 8. Deleting your data
 
 Because everything is stored on your device, you remain in complete control:
 
@@ -136,7 +136,7 @@ those yourself from wherever you saved them.
 
 ---
 
-### 10. Changes to this policy
+### 9. Changes to this policy
 
 We may update this policy from time to time. Material changes will be reflected
 in the "Last updated" date above. You are advised to review this page
@@ -144,7 +144,7 @@ periodically.
 
 ---
 
-### 11. Contact us
+### 10. Contact us
 
 For questions, feedback, or privacy enquiries regarding Rupee Control:
 
